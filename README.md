@@ -8,6 +8,11 @@ William Wegman, Cotto, 1970. Gelatin silver print, 7 7/8 × 7 3/4 in. (20 × 19.
 ```
 
 And here are the links to resources:
+
+https://pythex.org/
+
 https://docs.python.org/3/howto/regex.html
-Cheat sheet: http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
+
+http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
+
 http://www.diveintopython3.net/regular-expressions.html
